@@ -12,3 +12,36 @@ function flgdice(name,me,tar,rand){
  return (rand(1,num)>50)
 }
 ```
+
+```
+//dungeron script
+//dungeron B00 - B99
+#B01
+{$nowfloor==="B01"}>>>#B01.loaded
+{{{
+
+}}}
+map:{$$$}
+title:flower graden 01
+{{{
+}}}
+desc:{$$$}
+//
+side:aaa.png
+face:bbb.png
+ceiling:ccc.png
+ground:ddd.png
+//symbol 0 1 2 ...
+0:
+1:
+2:
+3:
+4:
+//special symbol on face
+X01Y01.W:kkk.png
+
+#B01.loaded
+//event jump
+
+
+```
