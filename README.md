@@ -32,16 +32,14 @@ face:bbb.png
 ceiling:ccc.png
 ground:ddd.png
 //symbol 0 1 2 ...
-0:
-1:
-2:
-3:
-4:
-//special symbol on face
-X01Y01.W:kkk.png
-
+0:b1wall.png
+1:b1face.png
+2:...
+3:...
+4:...
 #B01.loaded
 //event jump
 
 
+{1}>>>#walk
 ```
