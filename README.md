@@ -13,33 +13,3 @@ function flgdice(name,me,tar,rand){
 }
 ```
 
-```
-//dungeron script
-//dungeron B00 - B99
-#B01
-{$nowfloor==="B01"}>>>#B01.loaded
-{{{
-
-}}}
-map:{$$$}
-title:flower graden 01
-{{{
-}}}
-desc:{$$$}
-//
-side:aaa.png
-face:bbb.png
-ceiling:ccc.png
-ground:ddd.png
-//symbol 0 1 2 ...
-0:b1wall.png
-1:b1face.png
-2:...
-3:...
-4:...
-#B01.loaded
-//event jump
-
-
-{1}>>>#walk
-```
