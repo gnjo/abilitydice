@@ -7,7 +7,8 @@ let rand=xrand(Date.now())
 flgdice('str',a,b,rand)
 
 function flgdice(name,me,tar,rand){
- let num=100+(me-tar)
+ let a=(me)?me[name]||0:0,b=(tar)?tar[name]||0:0
+ let num=100+(a-b)
  return (rand(1,num)>50)
 }
 ```
