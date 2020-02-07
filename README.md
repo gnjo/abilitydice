@@ -1,5 +1,13 @@
-# abilitydice
-str pie mag vit agi luc and op1 op2
+# dice
+lv str pie mag vit agi luc and op1 op2
+
+```
+dice(rand)
+.dmg('str,pie',me,tar)
+.flg('luc',me,tar,times) //if time +,flg||flg. if time -,flg&&flg
+.drop('luc',me,tar,table) //table of one.
+
+```
 
 ```
 let b=a={str,pie,mag,vit,agi,luc,op1,op2}...
