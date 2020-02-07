@@ -2,6 +2,9 @@
 lv str pie mag vit agi luc and op1 op2
 
 ```
+
+//dlv+dstat*2
+
 dice(rand)
 .dmg('str,pie',me,tar)
 .flg('luc',me,tar,times) //if time +,flg||flg. if time -,flg&&flg
