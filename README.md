@@ -55,36 +55,42 @@ Y //slash times
 Z //dodge base
 ```
 ```
+//-lica, -li, -ca, -lic
 //skill table
 A
 B
 C
 D
-E
-F
+Esc //Escapli
+Fir //Firlica
 G
 H
-I
+Ice //Iceli
 J
 K
 L
 M
-N
-O
-P
+Nig //Nightmarlic
+Ogr //Ogrelic
+Poi //Poisolica
 Q
 R
 S
-T
+Thu //Thundlic
 U
 V
-W
+Woo //Woodlic
 //X
 //Y
 //Z
 ```
 
 ```
+ -lica
+ -li
+ -ca
+ -lic
+ 
 　単複列界。種。
 　火焔、氷爆、雷鳴。
 　斬払、突払、壊払。
