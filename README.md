@@ -1,30 +1,30 @@
 # dice
-Lv Str Ber Mag Vit Agi Luc and op1 op2
+Lev Str Ber Mag Vit Agi Quo and op1 op2
 
 ```
-Agi
+Agi //Agillity
 Ber //Berief
-Che //Charm
-Dar //Dark
+Che //Charm issue
+Dar //Dark magic
 Exp //Expup
-Fir //Fire
+Fir //Fire magic
 Goo //Goodsup
-Hol //Holy
-Ice
-//J
+HPs //Hitpoint
+Ice //Ice magic
+Jud //Judgement magic
 Kee //Keep once life
-Luc //Luc
+Lev //Level
 Mag //Magic
-Nig //Nightmare
-Ogr //Ogreed
-Poi //Poison
-Quo //Quority Level
+Nig //Nightmare issue
+Ogr //Ogreed issue
+Poi //Poison issue
+Quo //Quority dice
 Rec //Recovery dot keep
-Str 
+Str //Strange
 Thu //Thunder
-Unt //Untonic
-Vit
-Woo
+Unt //Untonic issue
+Vit //Vitality
+Woo //Woody issue
 //X
 //Y
 //Z
