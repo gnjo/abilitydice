@@ -59,7 +59,7 @@ Z //dodge base
 //issue -lica, -li, -ca, -lic
 //skill table
 Agi //Agillitica
-B //Berief
+Bac //Backli back to the stair on floor
 Cha //Charmlic heal
 Dar //DarkMagic
 Esc //Escapli
@@ -68,7 +68,7 @@ Gow //Goodwalkli
 Hea //Healica
 Ice //IceMagic
 Jud //JudgementMagic 
-K //Keep once life
+Kin //Kindhealic heal status issue anyone of one.
 Lev //Levelica base level up while battle
 Mad //MagicDecli decreese to enemy
 Nig //Nightmarlic
