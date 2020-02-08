@@ -26,6 +26,7 @@
 ```
 Lev Str Ber Mag Vit Agi Quo and op1 op2
 ```
+//stats table
 Agi //Agillity
 Ber //Berief
 Che //Charm issue, attack to alley by fifty.
@@ -53,6 +54,36 @@ X //wepon damage base
 Y //slash times
 Z //dodge base
 ```
+```
+//skill table
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+//X
+//Y
+//Z
+```
+
 ```
 
 //dlv+dstat*2
