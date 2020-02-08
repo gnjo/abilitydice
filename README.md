@@ -44,7 +44,7 @@ Nig //Nightmare issue, dont action, but aweken.
 Ogr //Ogreed issue, dont magic and strange up.
 Poi //Poison issue, walk and turn the damage.
 Quo //Quority dice
-Rec //Recovery dot keep
+Rec //Recovery dot heal
 Str //Strange
 Thu //Thunder
 Unt //Untonic issue, dont attack by fifty.
