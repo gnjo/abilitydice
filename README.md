@@ -53,6 +53,7 @@ Y //slash times
 Z //dodge base
 ```
 ```
+//-lica -lic -ca -li -c
 //skill table
 Agi //Agillitica
 Bac //Backli back to the stair on floor
