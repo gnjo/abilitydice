@@ -1,6 +1,34 @@
 # dice
-lv str pie mag vit agi luc and op1 op2
+Lv Str Ber Mag Vit Agi Luc and op1 op2
 
+```
+Agi
+Ber //Berief
+Che //Charm
+Dar //Dark
+Exp //Expup
+Fir //Fire
+Goo //Goodsup
+Hol //Holy
+Ice
+//J
+Kee //Keep once life
+Luc //Luc
+Mag //Magic
+Nig //Nightmare
+Ogr //Ogreed
+Poi //Poison
+Quo //Quority Level
+Rec //Recovery dot keep
+Str 
+Thu //Thunder
+Unt //Untonic
+Vit
+Woo
+//X
+//Y
+//Z
+```
 ```
 
 //dlv+dstat*2
