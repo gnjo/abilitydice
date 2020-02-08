@@ -25,9 +25,9 @@ Thu //Thunder
 Unt //Untonic issue, dont attack by fifty.
 Vit //Vitality
 Woo //Woody issue, dont action never ever.
-//X //Wepon damage base
-//Y //Slash times
-//Z //dodge base
+X //wepon damage base
+Y //slash times
+Z //dodge base
 ```
 ```
 
