@@ -29,7 +29,7 @@ Lev Str Ber Mag Vit Agi Quo and op1 op2
 //stats table
 Agi //Agillity
 Ber //Berief
-Che //Charm issue, attack to alley by fifty.
+Cha //Charm issue, attack to alley by fifty.
 Dar //Dark magic break
 Exp //Expup
 Fir //Fire magic break
@@ -55,17 +55,17 @@ Y //slash times
 Z //dodge base
 ```
 ```
-//-lica, -li, -ca, -lic
+//issue -lica, -li, -ca, -lic
 //skill table
 A
 B
-C
-D
+Cha //Charmlic
+Dar //DarkMagic
 Esc //Escapli
-Fir //Firlica
+Fir //FireMagic
 G
 H
-Ice //Iceli
+Ice //IceMagic
 J
 K
 L
@@ -76,8 +76,8 @@ Poi //Poisolica
 Q
 R
 S
-Thu //Thundlic
-U
+Thu //ThunderMagic
+Unt //Untonica
 V
 Woo //Woodlic
 //X
@@ -86,11 +86,16 @@ Woo //Woodlic
 ```
 
 ```
- -lica
- -li
- -ca
- -lic
- 
+1:FireMagic of once
+2:FireMagic of twice
+3:FireMagic of arrow
+4:FireMagic of arrows
+5:FireMagic of range
+6:FireMagic of kill
+7:FireMagic of quadro
+8:FireMagic of mateoro
+9:FireMagic of kills
+
 　単複列界。種。
 　火焔、氷爆、雷鳴。
 　斬払、突払、壊払。
