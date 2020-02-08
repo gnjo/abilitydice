@@ -71,11 +71,11 @@ Jud //JudgementMagic
 Kin //Kindhealic heal status issue anyone of one.
 Lev //Levelica base level up while battle
 Mad //MagicDecli decreese to enemy
-Nig //Nightmarlic
+Nig //Nightmarlic heal
 Ogr //Ogrelic heal
 Poi //Poisolica heal
 Que //Queeqli rate of kill
-Rea //Realiveli
+Rea //Realiveli reserve the reborn
 Sla //Slashlic
 Thu //ThunderMagic
 Unt //Untonica heal
