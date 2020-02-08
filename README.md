@@ -64,7 +64,7 @@ Cha //Charmlic heal
 Dar //DarkMagic
 Esc //Escapli
 Fir //FireMagic
-Goo //Goodsup
+Gow //Goodwalkli
 Hea //Healica
 Ice //IceMagic
 Jud //JudgementMagic 
