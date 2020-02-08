@@ -4,7 +4,7 @@ Lev Str Ber Mag Vit Agi Quo and op1 op2
 ```
 Agi //Agillity
 Ber //Berief
-Che //Charm issue
+Che //Charm issue, attack to alley by fifty.
 Dar //Dark magic
 Exp //Expup
 Fir //Fire magic
@@ -15,19 +15,19 @@ Jud //Judgement magic
 Kee //Keep once life
 Lev //Level
 Mag //Magic
-Nig //Nightmare issue
-Ogr //Ogreed issue
-Poi //Poison issue
+Nig //Nightmare issue, dont action, but aweken.
+Ogr //Ogreed issue, dont magic and strange up.
+Poi //Poison issue, walk and turn the damage.
 Quo //Quority dice
 Rec //Recovery dot keep
 Str //Strange
 Thu //Thunder
-Unt //Untonic issue
+Unt //Untonic issue, dont attack by fifty.
 Vit //Vitality
-Woo //Woody issue
-//X
-//Y
-//Z
+Woo //Woody issue, dont action never ever.
+//X //Wepon damage base
+//Y //Slash times
+//Z //dodge base
 ```
 ```
 
