@@ -58,32 +58,32 @@ Z //dodge base
 ```
 //issue -lica, -li, -ca, -lic
 //skill table
-A
-B
-Cha //Charmlic
+Agi //Agillitica
+B //Berief
+Cha //Charmlic heal
 Dar //DarkMagic
 Esc //Escapli
 Fir //FireMagic
-G
-H
+Goo //Goodsup
+Hea //Healica
 Ice //IceMagic
-J
-K
-L
-M
+Jud //JudgementMagic 
+K //Keep once life
+Lev //Levelica base level up while battle
+Mad //MagicDecli decreese to enemy
 Nig //Nightmarlic
-Ogr //Ogrelic
-Poi //Poisolica
-Q
-R
-S
+Ogr //Ogrelic heal
+Poi //Poisolica heal
+Que //Queeqli rate of kill
+Rea //Realiveli
+Sla //Slashlic
 Thu //ThunderMagic
-Unt //Untonica
-V
-Woo //Woodlic
-//X
-//Y
-//Z
+Unt //Untonica heal
+Vis //Visitalic
+Woo //Woodlic heal
+Xpo //Xpowerli charge self
+Yar //Yarnslashlic enemy slash times down
+Zip //Zippli dodge base up
 ```
 
 ```
