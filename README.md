@@ -30,13 +30,13 @@ Lev Str Ber Mag Vit Agi Quo and op1 op2
 Agi //Agillity
 Ber //Berief
 Che //Charm issue, attack to alley by fifty.
-Dar //Dark magic
+Dar //Dark magic break
 Exp //Expup
-Fir //Fire magic
+Fir //Fire magic break
 Goo //Goodsup
 HPs //Hitpoint
-Ice //Ice magic
-Jud //Judgement magic
+Ice //Ice magic break
+Jud //Judgement magic break
 Kee //Keep once life
 Lev //Level
 Mag //Magic
@@ -46,7 +46,7 @@ Poi //Poison issue, walk and turn the damage.
 Quo //Quority dice
 Rec //Recovery dot heal
 Str //Strange
-Thu //Thunder
+Thu //Thunder magic break
 Unt //Untonic issue, dont attack by fifty.
 Vit //Vitality
 Woo //Woody issue, dont action never ever.
