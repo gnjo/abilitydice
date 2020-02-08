@@ -77,7 +77,7 @@ Thu //ThunderMagic
 Unt //Untonica heal
 Vis //Visitalic
 Woo //Woodlic heal
-Xpo //Xpowerli charge self
+Xpo //Xpowli charge self
 Yar //Yarnslashlic enemy slash times down
 Zip //Zippli dodge base up
 ```
