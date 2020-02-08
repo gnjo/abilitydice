@@ -88,12 +88,12 @@ Woo //Woodlic
 
 ```
 魔法職は、通常戦に有利。近接職は、ボス戦に有利。
+スキルは五まで。マジックユーザは自身が詠唱可能なら二重詠唱となる。
 1:FireMagic of once
 2:FireMagic of twice
 3:FireMagic of arrow
 4:FireMagic of kill
-5:FireMagic of zone
-6:FireMagic of mateor
+5:FireMagic of mateor
 　単複列界。種。
 　火焔、氷爆、雷鳴。
 　斬払、突払、壊払。
