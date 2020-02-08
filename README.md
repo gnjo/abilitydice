@@ -87,10 +87,10 @@ Woo //Woodlic
 
 ```
 1:FireMagic of once
-2:FireMagic of arrow
-3:FireMagic of twice
-4:FireMagic of zone
-5:FireMagic of quadro
+2:FireMagic of twice
+3:FireMagic of arrow
+4:FireMagic of quadro
+5:FireMagic of zone
 6:FireMagic of mateor
 　単複列界。種。
 　火焔、氷爆、雷鳴。
