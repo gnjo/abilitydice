@@ -99,9 +99,9 @@ Zip //Zippli dodge base up
 1:FireMagic of once
 2:FireMagic of twice
 3:FireMagic of arrow
-4:FireMagic of kill
-5:FireMagic of mateor
-　単複列界。種。
+4:FireMagic of range
+5:FireMagic of altima
+　単複列界特。種。
 　火焔、氷爆、雷鳴。
 　斬払、突払、壊払。
 　睡夢、麻痺、暗黒。
