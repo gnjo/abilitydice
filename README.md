@@ -49,7 +49,7 @@ Kee //Keep once life
 Lev //Level
 Mag //Magic
 Nig //Nightmare issue, dont action, but aweken.
-Ogr //Ogreed issue, dont magic and strange up.
+Ogr //Ogrelic issue, dont magic and strange up.
 Poi //Poison issue, walk and turn the damage.
 Quo //Quority dice
 Rec //Recovery dot heal
