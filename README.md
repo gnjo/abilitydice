@@ -99,8 +99,8 @@ Zip //Zippli dodge base up
 1:FireMagic of once
 2:FireMagic of twice
 3:FireMagic of arrow
-4:FireMagic of range
-5:FireMagic of altima
+4:FireMagic of all
+5:FireMagic of kor //kill or reborn
 　単複列界特。種。
 　火焔、氷爆、雷鳴。
 　斬払、突払、壊払。
